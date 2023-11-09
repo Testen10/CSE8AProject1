@@ -18,3 +18,22 @@ version: 3.9.7
   <li> Top 5 positive categories that students with anxiety level higher than the average have lower than the average level</li>
   <li> Top 5 positive categories that students with anxiety level lower than the average have higher than the average level</li>
   <li> Top 5 negative categories that students with anxiety level lower than the average have lower than the average level</li>
+</ol>
+</blockquote>
+
+<br> Negative category refers to the factor where the higher level contributes to higher anxiety level of the student.
+<br> List of negative category:
+<blockquote>
+<ul>
+  <li> depression</li>
+  <li> headache</li>
+  <li> blood_pressure</li>
+  <li> breathing_problem</li>
+  <li> noise_level</li>
+  <li> study_load</li>
+  <li> future_career_concerns</li>
+  <li> peer_pressure</li>
+  <li> extracurricular_activities</li>
+  <li> bullying</li>
+</ul>
+</blockquote>
