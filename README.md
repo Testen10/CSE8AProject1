@@ -4,7 +4,18 @@
 version: 3.9.7
 
 ## Objective
-<p>analyze student stress factor dataset from Kaggle <a href="https://www.kaggle.com/datasets/rxnach/student-stress-factors-a-comprehensive-analysis", target = "_blank">(link)</a></p>
+<p>Analyze student stress factor dataset from Kaggle <a href="https://www.kaggle.com/datasets/rxnach/student-stress-factors-a-comprehensive-analysis", target = "_blank">(link)</a></p>
+
+## Motivating Question
+<ul>
+  <li>What is the average anxiety level?
+How many students are suffering from high anxiety levels (higher than average levels)?
+For those who have high anxiety levels, what are the negative factors that are higher than the average level / positive factors that are lower than the average?
+=> Since the result may include factors that don’t have a significant impact, get the top 10 of each
+For those who have low anxiety levels, what are the positive factors that are higher than the average level / negative factors that are higher than the average level?
+=> Since the result may include factors that don’t have a significant impact, get the top 10 of each
+
+
 
 ## How this code works
 <p>If you run this code, it will geneate a text file 'result.txt' which includes the following analysis:</p>
