@@ -8,13 +8,11 @@ version: 3.9.7
 
 ## Motivating Question
 <ul>
-  <li>What is the average anxiety level?
-How many students are suffering from high anxiety levels (higher than average levels)?
-For those who have high anxiety levels, what are the negative factors that are higher than the average level / positive factors that are lower than the average?
-=> Since the result may include factors that don’t have a significant impact, get the top 10 of each
-For those who have low anxiety levels, what are the positive factors that are higher than the average level / negative factors that are higher than the average level?
-=> Since the result may include factors that don’t have a significant impact, get the top 10 of each
-
+  <li>What is the average anxiety level?</li>
+  <li>How many students are suffering from high anxiety levels (higher than average level)?</li>
+  <li>For those who have high anxiety levels, what are the negative factors that are higher than the average level / positive factors that are lower than the average?</li>
+  <li>For those who have low anxiety levels, what are the positive factors that are higher than the average level / negative factors that are higher than the average level?</li>
+</ul>
 
 
 ## How this code works
