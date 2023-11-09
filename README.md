@@ -37,3 +37,18 @@ version: 3.9.7
   <li> bullying</li>
 </ul>
 </blockquote>
+
+<br> Positive category refers to the factor where the higher level contributes to lower anxiety level of the student.
+<br> List of positive category:
+<blockquote>
+<ul>
+  <li> self_esteem</li>
+  <li> sleep_quality</li>
+  <li> living_conditions</li>
+  <li> safety</li>
+  <li> basic_needs</li>
+  <li> academic_performance</li>
+  <li> teacher_student_relationship</li>
+  <li> social_support</li>
+</ul>
+</blockquote>
