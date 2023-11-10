@@ -11,7 +11,7 @@ version: 3.9.7
   <li>What is the average anxiety level?</li>
   <li>How many students are suffering from high anxiety levels (higher than average level)?</li>
   <li>For those who have high anxiety levels, what are the negative factors that are higher than the average level / positive factors that are lower than the average?</li>
-  <li>For those who have low anxiety levels, what are the positive factors that are higher than the average level / negative factors that are higher than the average level?</li>
+  <li>For those who have low anxiety levels, what are the positive factors that are higher than the average level / negative factors that are lower than the average level?</li>
 </ul>
 
 
@@ -19,19 +19,19 @@ version: 3.9.7
 <p>If you run this code, it will geneate a text file 'result.txt' which includes the following analysis:</p>
 <blockquote>
 <ol>
-  <li> Average level of each category in the dataset</li>
-  <li> Maximum level of each category in the dataset</li>
+  <li> Average level of each factor in the dataset</li>
+  <li> Maximum level of each factor in the dataset</li>
   <li> Total number of students recorded in the dataset</li>
   <li> Number of students whose anxiety level is higer than the average</li>
-  <li> Top 5 negative categories that students with anxiety level higher than the average have higher than the average level</li>
-  <li> Top 5 positive categories that students with anxiety level higher than the average have lower than the average level</li>
-  <li> Top 5 positive categories that students with anxiety level lower than the average have higher than the average level</li>
-  <li> Top 5 negative categories that students with anxiety level lower than the average have lower than the average level</li>
+  <li> Top 5 negative factors that students with anxiety level higher than the average have higher than the average level</li>
+  <li> Top 5 positive factors that students with anxiety level higher than the average have lower than the average level</li>
+  <li> Top 5 positive factors that students with anxiety level lower than the average have higher than the average level</li>
+  <li> Top 5 negative factors that students with anxiety level lower than the average have lower than the average level</li>
 </ol>
 </blockquote>
 
-<br> Negative category refers to the factor where the higher level contributes to higher anxiety level of the student.
-<br> List of negative category:
+<br> Negative factor refers to the factor where the higher level contributes to higher anxiety level of the student.
+<br> List of negative factor:
 <blockquote>
 <ul>
   <li> depression</li>
@@ -47,8 +47,8 @@ version: 3.9.7
 </ul>
 </blockquote>
 
-<br> Positive category refers to the factor where the higher level contributes to lower anxiety level of the student.
-<br> List of positive category:
+<br> Positive factor refers to the factor where the higher level contributes to lower anxiety level of the student.
+<br> List of positive factor:
 <blockquote>
 <ul>
   <li> self_esteem</li>
